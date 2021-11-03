@@ -1,3 +1,18 @@
+# GIT COMMANDS
+
+git init
+
+git remote add origin https://github.com/Sarunuk/crazy-react.git
+
+git add .
+
+git status
+
+git commit -m 'Initial commit for crazy react'
+
+git push -u origin master
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
